@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(to right, #cbce07, #831e1e);
+    font-size: 20px;
+}
+h1{
+
+    color: black;
+    text-align: center;
+    text-transform: uppercase;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 35px;
+}
+.presupuesto{
+    background-color: white;
+}
